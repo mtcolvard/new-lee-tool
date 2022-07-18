@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Lee Brenner's Noise Simulation Tool
         </a>
       </header>
     </div>
